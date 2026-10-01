@@ -1,0 +1,14 @@
+{
+  "name": "rockquant",
+  "displayName": "RockQuant",
+  "version": "0.1.0",
+  "description": "Conector oficial da RockQuant: estratégias, backtests e validação no RockBuilder; leitura do RockBots e do RockSense; central de ajuda.",
+  "author": {
+    "name": "RockQuant",
+    "url": "https://rockquant.io"
+  },
+  "homepage": "https://rockquant.io/mcp",
+  "repository": "https://github.com/rockquant/claude-plugin",
+  "license": "MIT",
+  "keywords": ["rockquant", "trading", "backtest", "mcp"]
+}

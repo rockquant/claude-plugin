@@ -1,0 +1,15 @@
+{
+  "name": "rockquant",
+  "description": "Plugins oficiais da RockQuant para o Claude Code.",
+  "owner": {
+    "name": "RockQuant",
+    "url": "https://rockquant.io"
+  },
+  "plugins": [
+    {
+      "name": "rockquant",
+      "source": "./plugins/rockquant",
+      "description": "Conector oficial da RockQuant: estratégias, backtests e validação no RockBuilder; leitura do RockBots e do RockSense; central de ajuda."
+    }
+  ]
+}
